@@ -1,0 +1,71 @@
+D:\havasi_adam\spaceship\urtagitas\urtagitas\bin\Debug\net8.0\urtagitas.exe
+D:\havasi_adam\spaceship\urtagitas\urtagitas\bin\Debug\net8.0\urtagitas.deps.json
+D:\havasi_adam\spaceship\urtagitas\urtagitas\bin\Debug\net8.0\urtagitas.runtimeconfig.json
+D:\havasi_adam\spaceship\urtagitas\urtagitas\bin\Debug\net8.0\urtagitas.dll
+D:\havasi_adam\spaceship\urtagitas\urtagitas\bin\Debug\net8.0\urtagitas.pdb
+D:\havasi_adam\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.GeneratedMSBuildEditorConfig.editorconfig
+D:\havasi_adam\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.AssemblyInfoInputs.cache
+D:\havasi_adam\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.AssemblyInfo.cs
+D:\havasi_adam\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.csproj.CoreCompileInputs.cache
+D:\havasi_adam\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.dll
+D:\havasi_adam\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\refint\urtagitas.dll
+D:\havasi_adam\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.pdb
+D:\havasi_adam\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.genruntimeconfig.cache
+D:\havasi_adam\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\ref\urtagitas.dll
+C:\Users\balaz\Downloads\spaceship 1\spaceship\urtagitas\urtagitas\bin\Debug\net8.0\urtagitas.exe
+C:\Users\balaz\Downloads\spaceship 1\spaceship\urtagitas\urtagitas\bin\Debug\net8.0\urtagitas.deps.json
+C:\Users\balaz\Downloads\spaceship 1\spaceship\urtagitas\urtagitas\bin\Debug\net8.0\urtagitas.runtimeconfig.json
+C:\Users\balaz\Downloads\spaceship 1\spaceship\urtagitas\urtagitas\bin\Debug\net8.0\urtagitas.dll
+C:\Users\balaz\Downloads\spaceship 1\spaceship\urtagitas\urtagitas\bin\Debug\net8.0\urtagitas.pdb
+C:\Users\balaz\Downloads\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balaz\Downloads\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.AssemblyInfoInputs.cache
+C:\Users\balaz\Downloads\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.AssemblyInfo.cs
+C:\Users\balaz\Downloads\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.csproj.CoreCompileInputs.cache
+C:\Users\balaz\Downloads\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.dll
+C:\Users\balaz\Downloads\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\refint\urtagitas.dll
+C:\Users\balaz\Downloads\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.pdb
+C:\Users\balaz\Downloads\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.genruntimeconfig.cache
+C:\Users\balaz\Downloads\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\ref\urtagitas.dll
+C:\Users\balaz\Downloads\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.csproj.Up2Date
+D:\havasi_adam\spaceship 1\spaceship\urtagitas\urtagitas\bin\Debug\net8.0\urtagitas.exe
+D:\havasi_adam\spaceship 1\spaceship\urtagitas\urtagitas\bin\Debug\net8.0\urtagitas.deps.json
+D:\havasi_adam\spaceship 1\spaceship\urtagitas\urtagitas\bin\Debug\net8.0\urtagitas.runtimeconfig.json
+D:\havasi_adam\spaceship 1\spaceship\urtagitas\urtagitas\bin\Debug\net8.0\urtagitas.dll
+D:\havasi_adam\spaceship 1\spaceship\urtagitas\urtagitas\bin\Debug\net8.0\urtagitas.pdb
+D:\havasi_adam\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.GeneratedMSBuildEditorConfig.editorconfig
+D:\havasi_adam\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.AssemblyInfoInputs.cache
+D:\havasi_adam\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.AssemblyInfo.cs
+D:\havasi_adam\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.csproj.CoreCompileInputs.cache
+D:\havasi_adam\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.dll
+D:\havasi_adam\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\refint\urtagitas.dll
+D:\havasi_adam\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.pdb
+D:\havasi_adam\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.genruntimeconfig.cache
+D:\havasi_adam\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\ref\urtagitas.dll
+C:\Users\marosi.balazs\Downloads\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\bin\Debug\net8.0\urtagitas.exe
+C:\Users\marosi.balazs\Downloads\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\bin\Debug\net8.0\urtagitas.deps.json
+C:\Users\marosi.balazs\Downloads\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\bin\Debug\net8.0\urtagitas.runtimeconfig.json
+C:\Users\marosi.balazs\Downloads\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\bin\Debug\net8.0\urtagitas.dll
+C:\Users\marosi.balazs\Downloads\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\bin\Debug\net8.0\urtagitas.pdb
+C:\Users\marosi.balazs\Downloads\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marosi.balazs\Downloads\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.AssemblyInfoInputs.cache
+C:\Users\marosi.balazs\Downloads\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.AssemblyInfo.cs
+C:\Users\marosi.balazs\Downloads\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.csproj.CoreCompileInputs.cache
+C:\Users\marosi.balazs\Downloads\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.dll
+C:\Users\marosi.balazs\Downloads\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\refint\urtagitas.dll
+C:\Users\marosi.balazs\Downloads\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.pdb
+C:\Users\marosi.balazs\Downloads\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.genruntimeconfig.cache
+C:\Users\marosi.balazs\Downloads\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\ref\urtagitas.dll
+D:\havasi_adam\spaceship\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\bin\Debug\net8.0\urtagitas.exe
+D:\havasi_adam\spaceship\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\bin\Debug\net8.0\urtagitas.deps.json
+D:\havasi_adam\spaceship\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\bin\Debug\net8.0\urtagitas.runtimeconfig.json
+D:\havasi_adam\spaceship\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\bin\Debug\net8.0\urtagitas.dll
+D:\havasi_adam\spaceship\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\bin\Debug\net8.0\urtagitas.pdb
+D:\havasi_adam\spaceship\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.GeneratedMSBuildEditorConfig.editorconfig
+D:\havasi_adam\spaceship\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.AssemblyInfoInputs.cache
+D:\havasi_adam\spaceship\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.AssemblyInfo.cs
+D:\havasi_adam\spaceship\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.csproj.CoreCompileInputs.cache
+D:\havasi_adam\spaceship\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.dll
+D:\havasi_adam\spaceship\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\refint\urtagitas.dll
+D:\havasi_adam\spaceship\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.pdb
+D:\havasi_adam\spaceship\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\urtagitas.genruntimeconfig.cache
+D:\havasi_adam\spaceship\spaceship 1 2\spaceship 1\spaceship\urtagitas\urtagitas\obj\Debug\net8.0\ref\urtagitas.dll

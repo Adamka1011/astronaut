@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\balaz\\Downloads\\spaceship 1\\spaceship\\urtagitas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2982BD0B-DEEC-4BB4-83BB-97616DCF3A10}|urtagitas\\urtagitas.csproj|c:\\users\\balaz\\downloads\\spaceship 1\\spaceship\\urtagitas\\urtagitas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2982BD0B-DEEC-4BB4-83BB-97616DCF3A10}|urtagitas\\urtagitas.csproj|solutionrelative:urtagitas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2982BD0B-DEEC-4BB4-83BB-97616DCF3A10}|urtagitas\\urtagitas.csproj|c:\\users\\balaz\\downloads\\spaceship 1\\spaceship\\urtagitas\\urtagitas\\spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2982BD0B-DEEC-4BB4-83BB-97616DCF3A10}|urtagitas\\urtagitas.csproj|solutionrelative:urtagitas\\spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2982BD0B-DEEC-4BB4-83BB-97616DCF3A10}|urtagitas\\urtagitas.csproj|c:\\users\\balaz\\downloads\\spaceship 1\\spaceship\\urtagitas\\urtagitas\\astronaut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2982BD0B-DEEC-4BB4-83BB-97616DCF3A10}|urtagitas\\urtagitas.csproj|solutionrelative:urtagitas\\astronaut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\Downloads\\spaceship 1\\spaceship\\urtagitas\\urtagitas\\Program.cs",
+              "RelativeDocumentMoniker": "urtagitas\\Program.cs",
+              "ToolTip": "C:\\Users\\balaz\\Downloads\\spaceship 1\\spaceship\\urtagitas\\urtagitas\\Program.cs",
+              "RelativeToolTip": "urtagitas\\Program.cs",
+              "ViewState": "AgIAAGEBAAAANiOD3OEgwIQBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T15:51:55.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Spaceship.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\Downloads\\spaceship 1\\spaceship\\urtagitas\\urtagitas\\Spaceship.cs",
+              "RelativeDocumentMoniker": "urtagitas\\Spaceship.cs",
+              "ToolTip": "C:\\Users\\balaz\\Downloads\\spaceship 1\\spaceship\\urtagitas\\urtagitas\\Spaceship.cs",
+              "RelativeToolTip": "urtagitas\\Spaceship.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAYwDcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T15:51:55.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Astronaut.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\Downloads\\spaceship 1\\spaceship\\urtagitas\\urtagitas\\Astronaut.cs",
+              "RelativeDocumentMoniker": "urtagitas\\Astronaut.cs",
+              "ToolTip": "C:\\Users\\balaz\\Downloads\\spaceship 1\\spaceship\\urtagitas\\urtagitas\\Astronaut.cs",
+              "RelativeToolTip": "urtagitas\\Astronaut.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T15:51:55.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
