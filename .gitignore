@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/spaceship 1 2/spaceship 1/spaceship/urtagitas/.vs
+/spaceship 1 2/spaceship 1/spaceship/urtagitas/urtagitas/bin/Debug/net8.0
+/spaceship 1 2/spaceship 1/spaceship/urtagitas/urtagitas/obj/Debug/net8.0
+/spaceship 1 2/spaceship 1/spaceship/urtagitas/urtagitas/obj
